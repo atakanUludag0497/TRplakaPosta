@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">TRplakaPosta</string>
+
+    <!-- 81 provinces of turkey -->
+
+    <string name="adana">Adana -> Plaka : 01</string>
+    <string name="adiyaman">Adıyaman -> Plaka : 02</string>
+    <string name="afyonkarahisar">Afyonkarahisar -> Plaka : 03</string>
+    <string name="agri">Ağrı -> Plaka : 04</string>
+    <string name="aksaray">Aksaray -> Plaka : 68</string>
+    <string name="amasya">Amasya -> Plaka : 05</string>
+    <string name="ankara">Ankara -> Plaka : 06</string>
+    <string name="antalya">Antalya -> Plaka : 07</string>
+    <string name="ardahan">Ardahan -> Plaka : 75</string>
+    <string name="artvin">Artvin -> Plaka : 08</string>
+
+    <string name="aydin">Aydın -> Plaka : 09</string>
+    <string name="balikesir">Balıkesir -> Plaka : 10</string>
+    <string name="bartin">Bartın -> Plaka : 74</string>
+    <string name="batman">Batman -> Plaka : 72</string>
+    <string name="bayburt">Bayburt -> Plaka : 69</string>
+    <string name="bilecik">Bilecik -> Plaka : 11</string>
+    <string name="bingol">Bingöl -> Plaka : 12</string>
+    <string name="bitlis">Bitlis -> Plaka : 13</string>
+    <string name="bolu">Bolu -> Plaka : 14</string>
+    <string name="burdur">Burdur -> Plaka : 15</string>
+
+    <string name="bursa">Bursa -> Plaka : 16</string>
+    <string name="canakkale">Çanakkale -> Plaka : 17</string>
+    <string name="cankiri">Çankırı -> Plaka : 18</string>
+    <string name="corum">Çorum -> Plaka : 19</string>
+    <string name="denizli">Denizli -> Plaka : 20</string>
+    <string name="diyarbakir">Diyarbakır -> Plaka : 21</string>
+    <string name="duzce">Düzce -> Plaka : 81</string>
+    <string name="edirne">Edirne -> Plaka : 22</string>
+    <string name="elazig">Elazığ -> Plaka : 23</string>
+    <string name="erzincan">Erzincan -> Plaka : 24</string>
+
+    <string name="erzurum">Erzurum -> Plaka : 25</string>
+    <string name="eskisehir">Eskişehir -> Plaka : 26</string>
+    <string name="gaziantep">Gaziantep -> Plaka : 27</string>
+    <string name="giresun">Giresun -> Plaka : 28</string>
+    <string name="gumushane">Gümüşhane -> Plaka : 29</string>
+    <string name="hakkari">Hakkari -> Plaka : 30</string>
+    <string name="hatay">Hatay -> Plaka : 31</string>
+    <string name="igdir">Iğdır -> Plaka : 76</string>
+    <string name="isparta">İsparta -> Plaka : 32</string>
+    <string name="istanbul">İstanbul -> Plaka : 34</string>
+
+    <string name="izmir">İzmir -> Plaka : 35</string>
+    <string name="kahramanmaras">Kahramanmaraş -> Plaka : 46</string>
+    <string name="karabuk">Karabük -> Plaka : 78</string>
+    <string name="karaman">Karaman -> Plaka : 70</string>
+    <string name="kars">Kars -> Plaka : 36</string>
+    <string name="kastamonu">Kastamonu -> Plaka : 37</string>
+    <string name="kayseri">Kayseri -> Plaka : 38</string>
+    <string name="kilis">Kilis -> Plaka : 79</string>
+    <string name="kirikkale">Kırıkkale -> Plaka : 71</string>
+    <string name="kirklareli">Kırklareli -> Plaka : 39</string>
+
+    <string name="kirsehir">Kırşehir -> Plaka : 40</string>
+    <string name="kocaeli">Kocaeli -> Plaka : 41</string>
+    <string name="konya">Konya -> Plaka : 42</string>
+    <string name="kutahya">Kütahya -> Plaka : 43</string>
+    <string name="malatya">Malatya -> Plaka : 44</string>
+    <string name="manisa">Manisa -> Plaka : 45</string>
+    <string name="mardin">Mardin -> Plaka : 47</string>
+    <string name="mersin">Mersin -> Plaka : 33</string>
+    <string name="mugla">Muğla -> Plaka : 48</string>
+    <string name="mus">Muş -> Plaka : 49</string>
+
+    <string name="nevsehir">Nevşehir -> Plaka : 50</string>
+    <string name="nigde">Niğde -> Plaka : 51</string>
+    <string name="ordu">Ordu -> Plaka : 52</string>
+    <string name="osmaniye">Osmaniye -> Plaka : 80</string>
+    <string name="rize">Rize -> Plaka : 53</string>
+    <string name="sakarya">Sakarya -> Plaka : 54</string>
+    <string name="samsun">Samsun -> Plaka : 55</string>
+    <string name="sanliurfa">Şanlıurfa -> Plaka : 63</string>
+    <string name="siirt">Siirt -> Plaka : 56</string>
+    <string name="sinop">Sinop -> Plaka : 57</string>
+
+    <string name="sirnak">Şırnak -> Plaka : 73</string>
+    <string name="sivas">Sivas -> Plaka : 58</string>
+    <string name="tekirdag">Tekirdağ -> Plaka : 59</string>
+    <string name="tokat">Tokat -> Plaka : 60</string>
+    <string name="trabzon">Trabzon -> Plaka : 61</string>
+    <string name="tunceli">Tunceli -> Plaka : 62</string>
+    <string name="usak">Uşak -> Plaka : 64</string>
+    <string name="van">Van -> Plaka : 65</string>
+    <string name="yalova">Yalova -> Plaka : 77</string>
+    <string name="yozgat">Yozgat -> Plaka : 66</string>
+
+    <string name="zonguldak">Zonguldak -> Plaka : 67</string>
+</resources>
